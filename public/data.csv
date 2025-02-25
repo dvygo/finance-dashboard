@@ -1,0 +1,9 @@
+Type,Product,Started Date,Completed Date,Description,Amount,Fee,Currency,State,Balance,Code
+CARD_PAYMENT,Current,2024-03-21 00:35:26,2024-03-21 00:35:26,Texts,-1.99,0.00,EUR,Completed,15.9,2
+CARD_PAYMENT,Current,2024-03-21 00:35:26,2024-03-21 00:35:26,Discord,-7.45,0.00,EUR,Completed,15.9,2
+CARD_PAYMENT,Current,2024-03-21 00:35:26,2024-03-21 00:35:26,Itch.io,-3.30,0.00,EUR,Completed,15.9,2
+TOPUP,Current,2024-03-21 00:35:26,2024-03-21 00:35:26,"Shop Pay Top-Up",-185.00,0.00,EUR,Completed,15.9,2
+CARD_PAYMENT,Current,2024-03-21 00:35:26,2024-03-21 00:35:26,Texts,-1.99,0.00,EUR,Completed,15.9,2
+TOPUP,Current,2024-03-21 03:48:58,2024-03-21 03:48:58,"Shop Pay Top-Up",-185.00,0.00,EUR,Completed,15.9,2
+CARD_PAYMENT,Current,2024-03-01 00:12:00,2024-03-01 00:12:00,Online,-3.20,0.00,EUR,Completed,15.9,2
+TOPUP,Current,2024-03-01 23:57:34,2024-03-01 23:57:34,"Shop Pay Top-Up",-7.20,0.00,EUR,Completed,15.9,2
